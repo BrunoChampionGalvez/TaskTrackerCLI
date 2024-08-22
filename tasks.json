@@ -1,5 +1,7 @@
-[
-  "Wash the dishes.",
-  "Clean apartment.",
-  "Walk the dog."
-]
+{
+  "done": [],
+  "inProgress": [],
+  "todo": [
+    "Wash the dishes."
+  ]
+}
